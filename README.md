@@ -25,6 +25,8 @@
 > 13. 324(어린이보호)
 > 14. 325(자전거)
 > 15. 330(버스전용)
+> <br/>
+> <img src="/image/prediction.png" width="450px" height="300px" title="data"></img><br/>
 
 
 ## module 2. Delivery Sign Classifier
