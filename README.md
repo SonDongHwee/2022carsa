@@ -34,5 +34,5 @@
 > Data Preparation
 > * 배달 미션은 대회에서 특수 제작되는 표지판으로 학습을 위한 데이터셋이 없다. <br/>
 > <img src="/image/DeliverySign.png" width="450px" height="300px" title="data"></img><br/>
-> --> One shot Learning 적용해보기.?
+> --> One shot Learning 적용해보기.?  <br/>
 > -->TODO data generation! 여러 augmentation(RandomRatation, Diffusion, Color-회색조,채도,밝기) 적용 후 annotation 위치에 
